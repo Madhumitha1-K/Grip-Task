@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Social Media Integration</string>
+    <string name="facebook_app_id">182884590234834</string>
+    <string name="fb_login_protocol_scheme">fb182884590234834</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN" />
+
+</resources>
